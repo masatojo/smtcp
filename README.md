@@ -1,1 +1,1 @@
-# smtcp
+smt cpへようこそ
